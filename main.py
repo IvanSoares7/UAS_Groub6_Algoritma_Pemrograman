@@ -1,12 +1,3 @@
-/*
- * Smart Sustainability Campus Analysis
- * Program analisis data keberlanjutan kampus menggunakan Python
- * Dataset: sustainability_data.csv
- *
- * Compile : g++ -std=c++17 -o main main.py
- * Jalankan: ./main
- */
-
 import csv
 import random
 from datetime import datetime, timedelta
