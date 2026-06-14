@@ -58,4 +58,5 @@ python main.py
 > Skor dihitung dengan normalisasi min-max setiap parameter, kemudian dirata-rata.
 
 ## Link Video Presentasi
-https://youtu.be/xxxxxxxx
+https://drive.google.com/file/d/1tSoCmX7uG1EHmZnjgrAwbavKUr-HhaP_/view?usp=drivesdk
+
