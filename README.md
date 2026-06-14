@@ -1,9 +1,9 @@
-# UAS-PROG-KelompokXX
+# UAS-PROG-Kelompok6
 
 ## Anggota Kelompok
-1. Nama - NIM
-2. Nama - NIM
-3. Nama - NIM
+1. Muhammad Purnama Adi Putra - 25050874215
+2. Ivan Febrian Soares - 25050874024
+
 
 ## Deskripsi Proyek
 Analisis Smart Sustainability Campus menggunakan C++ dan Python.
