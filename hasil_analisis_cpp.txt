@@ -4,6 +4,11 @@
 |              Program Analisis Data - C++                   |
 +============================================================+
   Tanggal Laporan : 2026-06-12 02:45:26
+# UAS-PROG-Kelompok 6
+
+# Anggota Kelompok
+1. Muhammad Purnama Adi Putra - 25050874215
+2. Ivan Febrian Soares - 25050874024
 
 ==============================================================
   1. RINGKASAN DATA
